@@ -1,0 +1,27 @@
+body{
+    display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh; 
+            margin: 0;
+}
+
+.main{
+    width: 200px;
+    background-color: lightblue;
+    border: 3px solid #2980b9;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+#s1 {
+    font-weight: bold;
+}
+#b1{
+    margin-right: 15px;
+    background: lightslategray;
+}
+
+#b2{
+    background: lightslategray;
+}
